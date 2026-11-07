@@ -4,7 +4,7 @@
 
 | Challenge | Script | Done |
 |-----------|--------|------|
-|           |        |      |
+| PatternCount | [pattern_count.py](pattern_count.py) | ⬜ |
 
 ## Key concepts
 
