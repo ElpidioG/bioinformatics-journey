@@ -7,6 +7,7 @@
 | PatternCount | [pattern_count.py](pattern_count.py) | ⬜ |
 | FrequentWords | [frequent_words.py](frequent_words.py) | ⬜ |
 | ReverseComplement | [reverse_complement.py](reverse_complement.py) | ⬜ |
+| PatternMatching | [pattern_matching.py](pattern_matching.py) | ⬜ |
 
 ## Key concepts
 
